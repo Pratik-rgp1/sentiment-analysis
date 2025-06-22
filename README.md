@@ -26,14 +26,7 @@ HTML/CSS/JS
 unittest
 
 requests
-
-🧪 Run Locally
-bash
-Copy
-Edit
-# Install dependencies
-pip install -r requirements.txt
-
+```
 # Run the server
 python server.py
 Open your browser and visit: http://127.0.0.1:5000/
